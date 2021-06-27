@@ -21,7 +21,7 @@
 </p>
 
 
-## 💻 About the project
+## 💻 About
 
 This is a personal project to study how the communication between the frontend (ReactJS) and the backend (NodeJS) of an application works, using the following technologies:
 
