@@ -20,22 +20,23 @@
   <a href="#about-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tech">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#modules">Modules</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 
-## :about: 💻 About the project
+## 💻 About the project
 
 This is a personal project to study how the communication between the frontend (ReactJS) and the backend (NodeJS) of an application works, using the following technologies:
 
 
-## :tech: 🚀 Technologies
+## 🚀 Technologies
 
 - Typescript
 - Express
 - Cors
 
 
-## :modules: ✨ Modules
+## ✨ Modules
 
 - frontend
 - backend
