@@ -1,7 +1,7 @@
 import './App.css';
 
 // importing hooks from react module
-import { useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 
 function App() {
   // initializing state with empty array
@@ -25,24 +25,27 @@ function App() {
     <div className="App">
       <h1 style={{ color: "green" }}>Names</h1>
       <table>
-        <tr className="head">
-          <th>ID</th>
-          <th className="name">Name</th>
-          <th>Age</th>
-        </tr>
-      
-        {state.map((item, index) => {
-          const { id, name, age } = item;
-          return (
-            <>
-              <tr key={id}>
-                <td>{id}</td>
-                <td className="name">{name}</td>
-                <td>{age}</td>
-              </tr>
-            </>
-          );
-        })}
+        <thead>
+          <tr className="head">
+            <th>ID</th>
+            <th className="name">Name</th>
+            <th>Age</th>
+          </tr>
+        </thead>
+        <tbody>
+          {state.map((item, index) => {
+            const { id, name, age } = item;
+            return (
+              <React.Fragment key={id}>
+                <tr>
+                  <td>{id}</td>
+                  <td className="name">{name}</td>
+                  <td>{age}</td>
+                </tr>
+              </React.Fragment>
+            );
+          })}
+        </tbody>
       </table>
     </div>
   );

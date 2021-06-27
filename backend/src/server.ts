@@ -1,9 +1,8 @@
-//importing modules
-const express = require("express");
-const cors = require("cors");
+import express from "express";
+import cors from "cors";
 
 // importing JSON data from data.js
-const data = require("./data");
+const data = require("./data/data.js");
 
 // initializing app
 const app = express();
@@ -18,5 +17,5 @@ app.get("/api", (req, res) => {
 
 // app is listening on port 5000
 app.listen(5000, () => {
-  console.log("Server is running on port 5000");
+  console.log("Server is running on port 5000...");
 });
