@@ -11,9 +11,6 @@
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
-  <a href="https://github.com/rocketseat-education/ignite-template-database-queries/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/rocketseat-education/ignite-template-database-queries?style=social">
-  </a>
 </p>
 
 <p align="center">
