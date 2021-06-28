@@ -23,24 +23,26 @@ function App() {
   return (
     // using map function to loop on state array and display data
     <div className="App">
-      <h1 style={{ color: "green" }}>Names</h1>
+      <h1 className="title">Countries</h1>
       <table>
         <thead>
           <tr className="head">
-            <th>ID</th>
-            <th className="name">Name</th>
-            <th>Age</th>
+            <th>Country</th>
+            <th>Capital</th>
+            <th>Continent</th>
+            <th>Language</th>
           </tr>
         </thead>
         <tbody>
           {state.map((item, index) => {
-            const { id, name, age } = item;
+            const { id, country, capital, continent, language } = item;
             return (
               <React.Fragment key={id}>
                 <tr>
-                  <td>{id}</td>
-                  <td className="name">{name}</td>
-                  <td>{age}</td>
+                  <td>{country}</td>
+                  <td>{capital}</td>
+                  <td>{continent}</td>
+                  <td>{language}</td>
                 </tr>
               </React.Fragment>
             );
