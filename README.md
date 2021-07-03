@@ -38,7 +38,7 @@ This is a personal project to study how the communication between the frontend (
 - frontend
 - backend
 
-
+<a name="how"></a>
 ## ℹ️ How To Use
 
 To clone and run this application, you'll need <a href="https://git-scm.com" rel="nofollow">Git</a> + <a href="https://legacy.yarnpkg.com" rel="nofollow">Yarn</a> + <a href="https://nodejs.org/" rel="nofollow">Node.js</a>. From your command line:
