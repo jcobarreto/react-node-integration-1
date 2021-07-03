@@ -74,6 +74,8 @@ $ yarn start
 
 ```
 
+## :memo: Licença
+
 ---
 
 Made by <a href="https://www.linkedin.com/in/jcobarreto">Julio Barreto</a>
