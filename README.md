@@ -4,10 +4,10 @@
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/jcobarreto/react-node-integration-1?style=flat">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/jcobarreto/react-node-integration-1">
   <a href="https://rocketseat.com.br">
     <img alt="Made by Julio Barreto" src="https://img.shields.io/badge/made%20by-Julio%20Barreto-orange">
-  </a>
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/jcobarreto/react-node-integration-1">
+  </a>  
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jcobarreto/react-node-integration-1">
 </p>
 
@@ -15,7 +15,7 @@
   <a href="#-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-modules">Modules</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 
