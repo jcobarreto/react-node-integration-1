@@ -19,12 +19,12 @@
 </p>
 
 
-## 💻 About
+## :memo: About
 
 This is a personal project to study how the communication between the frontend (ReactJS) and the backend (NodeJS) of an application works, using the following technologies:
 
 
-## 🚀 Technologies
+## :computer: Technologies
 
 - React.js
 - Node.js
@@ -39,7 +39,7 @@ This is a personal project to study how the communication between the frontend (
 - backend
 
 
-## ℹ️ How To Use
+## :information_source: How To Use
 
 To clone and run this application, you'll need <a href="https://git-scm.com" rel="nofollow">Git</a> + <a href="https://legacy.yarnpkg.com" rel="nofollow">Yarn</a> + <a href="https://nodejs.org/" rel="nofollow">Node.js</a>. From your command line:
 
