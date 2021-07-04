@@ -19,12 +19,18 @@
 </p>
 
 
-## :memo: About
+## :memo:  About
 
 This is a personal project to study how the communication between the frontend (ReactJS) and the backend (NodeJS) of an application works, using the following technologies:
 
 
-## :computer: Technologies
+## :computer:  Technologies
+
+  <ul>
+    <li><a href="https://reactjs.org/" rel="nofollow">React.js</a></li>
+    <li><a href="https://nodejs.org/en/" rel="nofollow">Node.js</a></li>
+    <li><a href="https://code.visualstudio.com/" rel="nofollow">VS Code</a></li>
+  </ul>
 
 - React.js
 - Node.js
@@ -33,13 +39,13 @@ This is a personal project to study how the communication between the frontend (
 - Cors
 
 
-## ✨ Modules
+## ✨  Modules
 
 - frontend
 - backend
 
 
-## :information_source: How To Use
+## :information_source:  How To Use
 
 To clone and run this application, you'll need <a href="https://git-scm.com" rel="nofollow">Git</a> + <a href="https://legacy.yarnpkg.com" rel="nofollow">Yarn</a> + <a href="https://nodejs.org/" rel="nofollow">Node.js</a>. From your command line:
 
