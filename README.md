@@ -35,12 +35,6 @@ This is a personal project to study how the communication between the frontend (
     <li><a href="https://code.visualstudio.com/" rel="nofollow">VS Code</a></li>
   </ul>
 
-- React.js
-- Node.js
-- Typescript
-- Express
-- Cors
-
 
 ## ✨  Modules
 
