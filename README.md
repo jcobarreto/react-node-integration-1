@@ -29,6 +29,9 @@ This is a personal project to study how the communication between the frontend (
   <ul>
     <li><a href="https://reactjs.org/" rel="nofollow">React.js</a></li>
     <li><a href="https://nodejs.org/en/" rel="nofollow">Node.js</a></li>
+    <li><a href="https://www.typescriptlang.org/" rel="nofollow">Typescript</a></li>
+    <li><a href="https://expressjs.com/" rel="nofollow">Express</a></li>
+    <li><a href="https://expressjs.com/en/resources/middleware/cors.html" rel="nofollow">Cors</a></li>    
     <li><a href="https://code.visualstudio.com/" rel="nofollow">VS Code</a></li>
   </ul>
 
